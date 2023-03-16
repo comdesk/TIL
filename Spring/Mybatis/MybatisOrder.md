@@ -5,15 +5,15 @@
     mybatis-config.xml, 즉 마이바티스 설정파일에 Mapper 인터페이스와 Mapper.xml 파일을 동시에 등록해서 혼용해서 사용하려고 할 때, 
 </p>
 
-<p>
+
     &lt;mappers&gt;
         &lt;mapper class="org.zerock.myapp.mapper.BoardMapper" /&gt;
         &lt;!-- &lt;package name="" /&gt;      --&gt;
     
-        &ltmapper resource="mappers/BoardMapper.xml" /&gt;
+        &lt;mapper resource="mappers/BoardMapper.xml" /&gt;
         &lt;!-- &lt;mapper url=""/&gt; --&gt;        
     &lt;/mappers&gt;
-</p>     
+    
   
 <p>
     이렇게 Mapper 인터페이스를 먼저 mappers 태그에 등록하고 xml 파일을 등록해야지, xml 파일을 먼저 등록하고 Mapper 인터페이스를 나중에 등록하면 
