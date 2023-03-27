@@ -33,3 +33,7 @@
 <ul>
   <li>TIL/Front-End/CSS/tableBorder.md</li>
 </ul>
+23/3/27
+<ul>
+  <li>TIL/JavaScript/window_ready.md</li>
+</ul>
