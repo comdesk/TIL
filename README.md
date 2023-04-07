@@ -33,7 +33,11 @@
 <ul>
   <li>TIL/Front-End/CSS/tableBorder.md</li>
 </ul>
-23/3/27
+23/03/27
 <ul>
   <li>TIL/JavaScript/window_ready.md</li>
+</ul>
+23/04/08
+<ul>
+  <li><a href="/TIL/Spring/JSP_Path.md">TIL/Spring/JSP_Path.md</a></li>
 </ul>
